@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/Logo should match Snapshot 1`] = `
+<svg
+  style={
+    Object {
+      "height": 110,
+      "margin": "auto",
+      "position": "relative",
+      "width": "auto",
+    }
+  }
+  viewBox="0 0 220 110"
+>
+  <rect
+    height="50"
+    rx="4"
+    ry="4"
+    style={
+      Object {
+        "fill": "none",
+        "stroke": "#222",
+      }
+    }
+    width="200"
+    x="10"
+    y="10"
+  />
+  <path
+    d="M10 20h200M10 30h200M10 40h200M10 50h200M55.6 10v50m37.5-50v50m40-50v50m42.2-50v50"
+    style={
+      Object {
+        "fill": "none",
+        "stroke": "#222",
+      }
+    }
+  />
+  <circle
+    cx="113.1"
+    cy="35"
+    r="1.5"
+    style={
+      Object {
+        "fill": "none",
+        "stroke": "#222",
+      }
+    }
+  />
+  <circle
+    cx="191.8"
+    cy="35"
+    r="1.5"
+    style={
+      Object {
+        "fill": "none",
+        "stroke": "#222",
+      }
+    }
+  />
+  <text
+    style={
+      Object {
+        "fill": "#222",
+        "fontFamily": "Arial",
+        "fontSize": "1.5rem",
+        "textAnchor": "middle",
+      }
+    }
+    x="110"
+    y="80"
+  >
+    <tspan
+      dy="5.5"
+    >
+       f i v e f r e t s
+    </tspan>
+  </text>
+</svg>
+`;

@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "css-elevation": "^1.0.2",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-redux": "^5.0.6",
@@ -23,6 +24,7 @@
   },
   "devDependencies": {
     "flow-bin": "^0.62.0",
+    "react-test-renderer": "^16.2.0",
     "redux-logger": "^3.0.6"
   }
 }

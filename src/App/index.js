@@ -1,6 +1,7 @@
 import React from 'react'
 import { injectGlobal } from 'styled-components'
 import { theme } from './constants/theme'
+import SideBar from './containers/SideBar'
 
 injectGlobal`
   html, body {
@@ -16,4 +17,4 @@ injectGlobal`
   }
 `
 
-export default () => <div>FIVEFRETS</div>
+export default () => <SideBar />
